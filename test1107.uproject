@@ -10,6 +10,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "BackUp",
+			"Enabled": true
+		},
+		{
+			"Name": "RealBandImporter",
+			"Enabled": true
 		}
 	]
 }
